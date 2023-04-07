@@ -1,7 +1,10 @@
 ## 🚀 Rockeatseat 
 <h1>Stage 03 - Avançando no HTML e CSS</h1>
 
-<h3>Introdução à responsabilidade</h3>
+<h3>Aula 02 - Introdução à responsabilidade</h3>
+<p align="center">
+  <img alt="Stage 03 / Projeto 02" src="assets/figma-project-02.png" width="60%">
+</p>
 
 <h4>Descrição</h4>
 
