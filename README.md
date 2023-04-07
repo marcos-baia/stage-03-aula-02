@@ -3,7 +3,7 @@
 
 <h3>Introdução à responsabilidade</h3>
 
-<h3>Descrição</h3>
+<h4>Descrição</h4>
 
 <p align="justify">Nessa aula daremos início ao nosso novo projeto aplicando a responsividade. Isso faz com que o nosso site se adapte em diversas resoluções de tela. </p>
 
