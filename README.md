@@ -1,7 +1,7 @@
 ## 🚀 Rockeatseat 
 <h1>Stage 03 - Avançando no HTML e CSS</h1>
 
-<h2>Introdução à responsabilidade</h2>
+<h3>Introdução à responsabilidade</h3>
 
 <h3>Descrição</h3>
 
@@ -9,4 +9,4 @@
 
 <p>Link do Projeto</p>
 
-Arquivo do Projeto no Figma: <a href="https://www.figma.com/file/9QilhSGTYmmSOkVfISesIz/Explorer-Stage-03-Projeto-02-(Copy)?node-id=203-412&t=7QhBqSksZa4TflzR-0">Explorer/Stage 03 Projeto 02</a>
+Arquivo do Projeto no Figma: <a href="https://www.figma.com/file/9QilhSGTYmmSOkVfISesIz/Explorer-Stage-03-Projeto-02-(Copy)?node-id=203-412&t=7QhBqSksZa4TflzR-0">Explorer / Stage 03 Projeto 02</a>
